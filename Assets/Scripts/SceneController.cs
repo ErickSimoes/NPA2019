@@ -8,7 +8,7 @@ public class SceneController : MonoBehaviour {
     public Image loadImage;
     public void CallScene(string sceneName) {
         loadImage.gameObject.SetActive(true);
-        SceneManager.LoadScene(sceneName, LoadSceneMode.Additive);
+        SceneManager.LoadScene(sceneName);
     }
 
 }
