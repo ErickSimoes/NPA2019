@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="EmChamas" size="1.000000 1.508296" />
+    <ImageTarget name="AsDuasTorres" size="1.000000 1.398058" />
+    <ImageTarget name="ReiArtur" size="1.000000 1.418297" />
+    <ImageTarget name="DomQuixote" size="1.000000 1.788909" />
+    <ImageTarget name="OPequenoPrincipe" size="1.000000 1.562500" />
+    <ImageTarget name="HPReliquiasDaMorte" size="1.000000 1.503759" />
+    <ImageTarget name="HPEnigmaDoPrincipe" size="1.000000 1.483680" />
+    <ImageTarget name="OSenhorDosLadroes" size="1.000000 1.435782" />
+  </Tracking>
+</QCARConfig>
