@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Fror" size="1.000000 1.414358" />
+    <ImageTarget name="HealthTech" size="1.000000 1.414358" />
+    <ImageTarget name="AImpiedosaAurraSing" size="1.000000 1.872767" />
+    <ImageTarget name="StarWars" size="1.000000 1.414358" />
     <ImageTarget name="EmChamas" size="1.000000 1.508296" />
     <ImageTarget name="AsDuasTorres" size="1.000000 1.398058" />
     <ImageTarget name="ReiArtur" size="1.000000 1.418297" />
