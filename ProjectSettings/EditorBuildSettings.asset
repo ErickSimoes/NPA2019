@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lab01Scene.unity
     guid: 99af888682c587943ad09b9e68e9961c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ExternalScene.unity
     guid: 805b761502bd6834eb4f27a390fb0fb8
   m_configObjects: {}
